@@ -6,7 +6,7 @@ Repositório de material da campanha INAD Brasil 2025
 Pessoal, aqui serão colocados os arquivos, documentos e artes da campanha do INAD Brasil.
 Para mais informações, veja o site em: **http://www.inadbrasil.com** .
 
-![INAD 2025](https://github.com/inadbrasil/inad2025/blob/main/github-banner-2025.jpg?raw=true)
+![INAD 2025](https://github.com/inadbrasil/inad2025/blob/main/github-banner-2025.png?raw=true)
 
 
 ## INAD 2025
